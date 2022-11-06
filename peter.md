@@ -1,5 +1,5 @@
 ---
-title: /PCSpecs
+title: /PC Specs
 layout: page
 permalink: /PCSpecs
 ---

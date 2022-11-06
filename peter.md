@@ -1,7 +1,7 @@
 ---
-title: /PC Specs
+title: /PCSpecs
 layout: page
-permalink: /PC Specs
+permalink: /PCSpecs
 ---
 
 
